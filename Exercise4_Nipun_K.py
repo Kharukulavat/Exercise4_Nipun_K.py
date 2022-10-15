@@ -5,6 +5,7 @@ Foundation English
 General Business
 Introduction to Computer Systems
 Computer Programming
+โดยให้ผู้เรียนพัฒนาโปรแกรมโดยสร้างตัวแปรสำหรับเก็บคะแนนผู้เรียนในรายวิชาดังกล่าว โดยคะแนนจะสามารถเป็นตัวเลขทศนิยมได้ และ เมื่อได้ตัวแปรมาแล้วให้ทำการแสดงผลออกมาให้ผู้ใช้งานได้เห็นในรูปแบบ
 
 --- Your Score ---
 
